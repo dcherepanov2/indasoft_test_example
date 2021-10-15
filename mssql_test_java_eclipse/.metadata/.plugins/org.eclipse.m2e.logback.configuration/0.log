@@ -1,0 +1,713 @@
+2021-10-10 16:02:01,833 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-10 16:10:09,714 [Worker-26: Creating project "mssql_test_java_eclipse_1"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 16:10:09,869 [Worker-26: Creating project "mssql_test_java_eclipse_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mssql_test_java_eclipse_1/src/main/java
+2021-10-10 16:10:09,871 [Worker-26: Creating project "mssql_test_java_eclipse_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mssql_test_java_eclipse_1/src/main/resources
+2021-10-10 16:10:09,872 [Worker-26: Creating project "mssql_test_java_eclipse_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mssql_test_java_eclipse_1/src/test/java
+2021-10-10 16:10:09,872 [Worker-26: Creating project "mssql_test_java_eclipse_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mssql_test_java_eclipse_1/src/test/resources
+2021-10-10 16:10:10,812 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:10:10,819 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:10:10,824 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:10:10,827 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:17:56,538 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 16:17:57,094 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:17:57,097 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:17:57,099 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:17:57,101 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:17:58,649 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final-sources.jar
+2021-10-10 16:17:58,820 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final-sources.jar
+2021-10-10 16:17:58,825 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.1.Final
+2021-10-10 16:17:59,139 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2021-10-10 16:18:00,610 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2021-10-10 16:18:00,614 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.1
+2021-10-10 16:18:00,941 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2021-10-10 16:18:01,138 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2021-10-10 16:18:01,142 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.1
+2021-10-10 16:18:01,471 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2021-10-10 16:18:01,632 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2021-10-10 16:18:01,635 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.7
+2021-10-10 16:18:01,956 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2021-10-10 16:18:02,116 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2021-10-10 16:18:02,120 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.8
+2021-10-10 16:18:02,455 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2021-10-10 16:18:02,869 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2021-10-10 16:18:02,873 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.fastinfoset:FastInfoset:1.2.15
+2021-10-10 16:18:03,195 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar
+2021-10-10 16:18:03,364 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar
+2021-10-10 16:18:03,368 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2021-10-10 16:18:03,694 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/9.4.0.jre8/mssql-jdbc-9.4.0.jre8-sources.jar
+2021-10-10 16:18:04,892 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/9.4.0.jre8/mssql-jdbc-9.4.0.jre8-sources.jar
+2021-10-10 16:18:04,896 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:9.4.0.jre8
+2021-10-10 16:18:05,365 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:18:05,367 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:18:05,368 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:18:05,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:20:59,972 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:20:59,975 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:20:59,976 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:20:59,977 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:11,729 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:11,731 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:11,732 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:11,733 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:18,918 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:18,920 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:18,921 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:18,922 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:37,382 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:37,384 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:37,385 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:37,386 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:44,261 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:44,263 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:21:44,264 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:21:44,266 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:22:55,928 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:22:55,930 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:22:55,932 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:22:55,933 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:22:56,963 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:22:56,964 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:22:56,965 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:22:56,967 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:23:30,256 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:23:30,258 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:23:30,259 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:23:30,260 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:23:52,776 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:23:52,778 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:23:52,779 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:23:52,780 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:00,132 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:00,134 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:00,135 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:00,137 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:14,475 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:14,477 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:14,478 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:14,480 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:22,728 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:22,730 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:22,731 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:22,732 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:54,225 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:54,227 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:24:54,228 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:24:54,229 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:25:11,018 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:25:11,020 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:25:11,021 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:25:11,022 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:35:01,429 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:35:01,431 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:35:01,432 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:35:01,434 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:35:18,824 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:35:18,826 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:35:18,827 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:35:18,828 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:37:45,433 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:37:45,435 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:37:45,436 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:37:45,437 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:39:39,474 [Worker-50: Launching EmployeesRepo] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 16:39:40,006 [Worker-50: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:39:40,010 [Worker-50: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:39:40,011 [Worker-50: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:39:40,013 [Worker-50: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:16,438 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:16,440 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:16,441 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:16,442 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:46,115 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 16:41:46,595 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:46,597 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:46,599 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:46,600 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:50,274 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 16:41:50,603 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:50,605 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:41:50,607 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:41:50,608 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:43:10,667 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:43:10,669 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:43:10,669 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:43:10,670 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:44:29,999 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:44:30,001 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:44:30,002 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:44:30,003 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:45:15,563 [Worker-48: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:45:15,565 [Worker-48: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:45:15,566 [Worker-48: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:45:15,567 [Worker-48: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:49:12,471 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:49:12,473 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:49:12,474 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:49:12,475 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:55:05,360 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:55:05,362 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:55:05,363 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:55:05,365 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:56:37,466 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:56:37,469 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:56:37,470 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:56:37,471 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:57:18,190 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:57:18,193 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:57:18,194 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:57:18,196 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:58:33,957 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:58:33,959 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 16:58:33,960 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 16:58:33,961 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:01:13,712 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:01:13,714 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:01:13,715 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:01:13,716 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:01:20,951 [Worker-57: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:01:20,953 [Worker-57: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:01:20,954 [Worker-57: Launching EmployeesRepo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:01:20,974 [Worker-57: Launching EmployeesRepo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:15:11,572 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:15:11,574 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:15:11,574 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:15:11,576 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:17:42,417 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:17:42,419 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:17:42,420 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:17:42,422 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:29:53,552 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:29:53,554 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:29:53,555 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:29:53,556 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:31:39,263 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:31:39,265 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:31:39,266 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:31:39,267 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:32:39,593 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:32:39,595 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:32:39,597 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:32:39,598 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:38:47,231 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:38:47,233 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:38:47,234 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:38:47,235 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:39:39,653 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:39:39,655 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:39:39,656 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:39:39,657 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:42:26,975 [Worker-71: Launching ApplicationMain] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 17:42:27,417 [Worker-71: Launching ApplicationMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:42:27,420 [Worker-71: Launching ApplicationMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:42:27,422 [Worker-71: Launching ApplicationMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:42:27,423 [Worker-71: Launching ApplicationMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:43:33,397 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:43:33,399 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:43:33,400 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:43:33,401 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:48:44,975 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:48:44,977 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:48:44,978 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:48:44,979 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:49:23,826 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:49:23,828 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:49:23,830 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:49:23,831 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:49:55,767 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:49:55,769 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:49:55,770 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:49:55,771 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:51:20,393 [Worker-73: Launching ApplicationMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:51:20,395 [Worker-73: Launching ApplicationMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:51:20,396 [Worker-73: Launching ApplicationMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:51:20,397 [Worker-73: Launching ApplicationMain] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:51:59,049 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:51:59,051 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:51:59,052 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:51:59,053 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:52:25,048 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:52:25,050 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:52:25,052 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:52:25,053 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:52:54,058 [Worker-74: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:52:54,060 [Worker-74: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:52:54,061 [Worker-74: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:52:54,062 [Worker-74: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:53:16,580 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:53:16,582 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:53:16,583 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:53:16,584 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:53:52,306 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:53:52,308 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:53:52,309 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:53:52,310 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:54:17,569 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:54:17,571 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 17:54:17,572 [Worker-73: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 17:54:17,573 [Worker-73: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:02:22,161 [Worker-76: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:02:22,163 [Worker-76: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:02:22,164 [Worker-76: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:02:22,165 [Worker-76: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:02:53,351 [Worker-69: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:02:53,353 [Worker-69: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:02:53,354 [Worker-69: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:02:53,355 [Worker-69: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:13,905 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:58:14,169 [Worker-87: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 18:58:14,596 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:58:14,669 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:14,671 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:14,673 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:14,674 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:15,842 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:58:15,844 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:15,846 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:15,847 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:15,848 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:15,899 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/miglayout/miglayout/3.7.4/miglayout-3.7.4-sources.jar
+2021-10-10 18:58:16,226 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/miglayout/miglayout/3.7.4/miglayout-3.7.4-sources.jar
+2021-10-10 18:58:16,230 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.miglayout:miglayout:3.7.4
+2021-10-10 18:58:16,928 [Worker-77: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:58:16,931 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:16,932 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:58:16,933 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:58:16,934 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:15,782 [Worker-90: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:59:15,996 [Worker-90: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-10 18:59:16,400 [Worker-90: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:59:16,469 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:16,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:16,472 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:16,474 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:17,853 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:59:17,856 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:17,858 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:17,858 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:17,860 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:18,044 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/swinglabs/swingx/1.6.1/swingx-1.6.1-sources.jar
+2021-10-10 18:59:20,238 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/swinglabs/swingx/1.6.1/swingx-1.6.1-sources.jar
+2021-10-10 18:59:20,242 [Worker-90: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.swinglabs:swingx:1.6.1
+2021-10-10 18:59:20,589 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jhlabs/filters/2.0.235/filters-2.0.235-sources.jar
+2021-10-10 18:59:21,118 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jhlabs/filters/2.0.235/filters-2.0.235-sources.jar
+2021-10-10 18:59:21,122 [Worker-90: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jhlabs:filters:2.0.235
+2021-10-10 18:59:21,530 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/swinglabs/swing-worker/1.1/swing-worker-1.1-sources.jar
+2021-10-10 18:59:21,718 [Worker-90: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/swinglabs/swing-worker/1.1/swing-worker-1.1-sources.jar
+2021-10-10 18:59:21,722 [Worker-90: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.swinglabs:swing-worker:1.1
+2021-10-10 18:59:22,170 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:59:22,172 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:22,173 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:22,174 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:22,175 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:40,473 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 18:59:40,476 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:40,478 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 18:59:40,478 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 18:59:40,480 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 19:01:20,722 [Worker-88: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 19:01:20,724 [Worker-88: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 19:01:20,726 [Worker-88: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 19:01:20,727 [Worker-88: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 19:01:20,728 [Worker-88: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 19:18:56,593 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 19:18:56,596 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 19:18:56,598 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 19:18:56,599 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 19:18:56,600 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:24:19,363 [Worker-101: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:24:19,366 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:24:19,367 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:24:19,368 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:24:19,369 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:24:39,362 [Worker-101: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:24:39,364 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:24:39,366 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:24:39,368 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:24:39,369 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:48:37,226 [Worker-114: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:48:37,229 [Worker-114: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:48:37,231 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:48:37,231 [Worker-114: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:48:37,233 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:48:46,811 [Worker-113: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:48:46,842 [Worker-113: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:48:46,844 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:48:46,845 [Worker-113: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:48:46,846 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:56:29,477 [Worker-119: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:56:29,479 [Worker-119: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:56:29,482 [Worker-119: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:56:29,482 [Worker-119: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:56:29,484 [Worker-119: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:57:13,375 [Worker-118: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 20:57:13,377 [Worker-118: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:57:13,379 [Worker-118: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 20:57:13,380 [Worker-118: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 20:57:13,381 [Worker-118: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:00:37,925 [Worker-128: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:00:37,927 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:00:37,929 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:00:37,930 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:00:37,931 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:07:28,146 [Worker-132: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:07:28,148 [Worker-132: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:07:28,150 [Worker-132: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:07:28,150 [Worker-132: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:07:28,151 [Worker-132: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:10:41,462 [Worker-135: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:10:41,464 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:10:41,466 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:10:41,467 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:10:41,469 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:11:53,931 [Worker-136: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:11:53,934 [Worker-136: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:11:53,936 [Worker-136: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:11:53,937 [Worker-136: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:11:53,939 [Worker-136: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:17:54,190 [Worker-130: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:17:54,193 [Worker-130: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:17:54,196 [Worker-130: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:17:54,197 [Worker-130: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:17:54,199 [Worker-130: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:33:33,364 [Worker-148: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:33:33,365 [Worker-148: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:33:33,367 [Worker-148: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:33:33,368 [Worker-148: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:33:33,369 [Worker-148: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:41:25,537 [Worker-150: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:41:25,539 [Worker-150: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:41:25,541 [Worker-150: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:41:25,543 [Worker-150: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:41:25,544 [Worker-150: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:46:36,668 [Worker-167: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:46:36,670 [Worker-167: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:46:36,672 [Worker-167: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:46:36,673 [Worker-167: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:46:36,674 [Worker-167: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:46:51,441 [Worker-165: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:46:51,445 [Worker-165: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:46:51,447 [Worker-165: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:46:51,447 [Worker-165: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:46:51,449 [Worker-165: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:50:25,210 [Worker-168: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:50:25,212 [Worker-168: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:50:25,214 [Worker-168: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:50:25,215 [Worker-168: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:50:25,216 [Worker-168: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:51:05,608 [Worker-164: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:51:05,610 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:51:05,612 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:51:05,613 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:51:05,615 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:51:25,816 [Worker-167: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:51:25,818 [Worker-167: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:51:25,820 [Worker-167: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:51:25,821 [Worker-167: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:51:25,822 [Worker-167: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:52:09,316 [Worker-166: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:52:09,318 [Worker-166: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:52:09,320 [Worker-166: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:52:09,320 [Worker-166: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:52:09,322 [Worker-166: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:55:15,582 [Worker-168: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-10 21:55:15,584 [Worker-168: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:55:15,586 [Worker-168: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-10 21:55:15,587 [Worker-168: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-10 21:55:15,588 [Worker-168: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:09,880 [Worker-164: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:11:09,882 [Worker-164: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:09,884 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:09,885 [Worker-164: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:09,886 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:22,091 [Worker-164: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:11:22,093 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:22,094 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:22,096 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:22,097 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:57,615 [Worker-164: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:11:57,617 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:57,619 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:11:57,620 [Worker-164: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:11:57,621 [Worker-164: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:13:25,067 [Worker-177: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:13:25,069 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:13:25,071 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:13:25,072 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:13:25,073 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:16:38,925 [Worker-184: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:16:38,927 [Worker-184: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:16:38,929 [Worker-184: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:16:38,930 [Worker-184: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:16:38,931 [Worker-184: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:17:13,507 [Worker-180: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:17:13,510 [Worker-180: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:17:13,512 [Worker-180: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:17:13,513 [Worker-180: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:17:13,514 [Worker-180: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:18:52,279 [Worker-184: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:18:52,281 [Worker-184: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:18:52,283 [Worker-184: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:18:52,284 [Worker-184: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:18:52,286 [Worker-184: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:22:47,429 [Worker-185: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:22:47,432 [Worker-185: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:22:47,434 [Worker-185: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:22:47,434 [Worker-185: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:22:47,436 [Worker-185: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:25:43,948 [Worker-190: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:25:43,950 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:25:43,952 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:25:43,952 [Worker-190: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:25:43,954 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:29:53,346 [Worker-189: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:29:53,349 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:29:53,350 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:29:53,352 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:29:53,353 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:30:02,582 [Worker-191: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:30:02,813 [Worker-191: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cd:mssql_test_java_eclipse_1:0.0.1-SNAPSHOT @ C:\Users\Danya\Desktop\mssql_test_java_eclipse\mssql_test_java_eclipse_1\pom.xml.
+2021-10-11 21:30:03,236 [Worker-191: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:30:03,308 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:30:03,311 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:30:03,312 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:30:03,313 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:30:16,860 [Worker-191: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:30:16,862 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:30:16,864 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:30:16,865 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:30:16,866 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:35:43,773 [Worker-197: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:35:43,775 [Worker-197: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:35:43,777 [Worker-197: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:35:43,778 [Worker-197: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:35:43,779 [Worker-197: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:48:27,885 [Worker-201: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:48:27,887 [Worker-201: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:48:27,889 [Worker-201: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:48:27,890 [Worker-201: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:48:27,891 [Worker-201: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:48:55,421 [Worker-205: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:48:55,424 [Worker-205: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:48:55,426 [Worker-205: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:48:55,427 [Worker-205: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:48:55,429 [Worker-205: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:49:47,799 [Worker-207: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:49:47,801 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:49:47,803 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:49:47,804 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:49:47,806 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:50:08,976 [Worker-207: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:50:08,978 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:50:08,980 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:50:08,981 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:50:08,983 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:50:29,553 [Worker-202: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:50:29,556 [Worker-202: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:50:29,558 [Worker-202: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:50:29,559 [Worker-202: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:50:29,560 [Worker-202: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:51:26,030 [Worker-207: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 21:51:26,033 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:51:26,035 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 21:51:26,035 [Worker-207: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 21:51:26,037 [Worker-207: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:00:04,509 [Worker-205: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:00:04,511 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:00:04,513 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:00:04,513 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:00:04,514 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:00:07,355 [Worker-210: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:00:07,357 [Worker-210: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:00:07,359 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:00:07,360 [Worker-210: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:00:07,361 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:04:48,449 [Worker-214: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:04:48,452 [Worker-214: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:04:48,455 [Worker-214: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:04:48,456 [Worker-214: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:04:48,457 [Worker-214: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:05:25,234 [Worker-214: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:05:25,236 [Worker-214: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:05:25,238 [Worker-214: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:05:25,239 [Worker-214: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:05:25,240 [Worker-214: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:06:50,657 [Worker-216: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:06:50,659 [Worker-216: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:06:50,661 [Worker-216: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:06:50,662 [Worker-216: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:06:50,663 [Worker-216: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:07:26,724 [Worker-217: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:07:26,728 [Worker-217: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:07:26,730 [Worker-217: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:07:26,730 [Worker-217: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:07:26,732 [Worker-217: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:35:59,889 [Worker-224: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:35:59,892 [Worker-224: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:35:59,894 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:35:59,895 [Worker-224: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:35:59,897 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:37:38,321 [Worker-225: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:37:38,323 [Worker-225: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:37:38,325 [Worker-225: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:37:38,326 [Worker-225: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:37:38,327 [Worker-225: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:43:42,072 [Worker-221: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:43:42,074 [Worker-221: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:43:42,076 [Worker-221: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:43:42,077 [Worker-221: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:43:42,078 [Worker-221: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:44:22,479 [Worker-227: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:44:22,482 [Worker-227: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:44:22,484 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:44:22,485 [Worker-227: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:44:22,486 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:50:42,170 [Worker-228: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:50:42,172 [Worker-228: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:50:42,175 [Worker-228: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:50:42,175 [Worker-228: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:50:42,194 [Worker-228: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:52:28,165 [Worker-218: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:52:28,167 [Worker-218: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:52:28,169 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:52:28,170 [Worker-218: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:52:28,171 [Worker-218: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:54:30,452 [Worker-227: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:54:30,454 [Worker-227: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:54:30,456 [Worker-227: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:54:30,457 [Worker-227: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:54:30,458 [Worker-227: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:55:40,598 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:55:40,600 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:55:40,602 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:55:40,603 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:55:40,604 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:56:53,570 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:56:53,572 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:56:53,573 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:56:53,574 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:56:53,575 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:57:32,819 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:57:32,821 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:57:32,823 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:57:32,824 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:57:32,826 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:58:23,723 [Worker-221: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:58:23,725 [Worker-221: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:58:23,727 [Worker-221: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:58:23,728 [Worker-221: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:58:23,729 [Worker-221: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:59:05,381 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 22:59:05,383 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:59:05,385 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 22:59:05,386 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 22:59:05,388 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:00:12,431 [Worker-223: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:00:12,433 [Worker-223: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:00:12,435 [Worker-223: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:00:12,435 [Worker-223: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:00:12,436 [Worker-223: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:01:19,967 [Worker-202: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:01:19,969 [Worker-202: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:01:19,971 [Worker-202: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:01:19,972 [Worker-202: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:01:19,973 [Worker-202: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:02:26,831 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:02:26,832 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:02:26,834 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:02:26,835 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:02:26,836 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:03:09,077 [Worker-223: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:03:09,079 [Worker-223: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:03:09,081 [Worker-223: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:03:09,082 [Worker-223: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:03:09,083 [Worker-223: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:03:55,785 [Worker-229: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:03:55,787 [Worker-229: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:03:55,788 [Worker-229: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:03:55,789 [Worker-229: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:03:55,790 [Worker-229: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:04:49,767 [Worker-218: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:04:49,769 [Worker-218: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:04:49,771 [Worker-218: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:04:49,772 [Worker-218: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:04:49,774 [Worker-218: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:05:47,454 [Worker-229: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:05:47,456 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:05:47,458 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:05:47,459 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:05:47,459 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:07:25,802 [Worker-227: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:07:25,804 [Worker-227: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:07:25,806 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:07:25,807 [Worker-227: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:07:25,808 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:07:28,511 [Worker-222: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:07:28,513 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:07:28,515 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:07:28,516 [Worker-222: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:07:28,517 [Worker-222: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:20:50,502 [Worker-233: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:20:50,505 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:20:50,507 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:20:50,507 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:20:50,508 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:21:39,887 [Worker-222: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:21:39,889 [Worker-222: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:21:39,891 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:21:39,892 [Worker-222: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:21:39,893 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:24:34,204 [Worker-234: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:24:34,206 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:24:34,208 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:24:34,209 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:24:34,210 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:32:41,979 [Worker-236: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:32:41,981 [Worker-236: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:32:41,983 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:32:41,983 [Worker-236: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:32:41,985 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:34:13,216 [Worker-237: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:34:13,218 [Worker-237: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:34:13,220 [Worker-237: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:34:13,221 [Worker-237: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:34:13,222 [Worker-237: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:43:07,782 [Worker-231: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:43:07,784 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:43:07,786 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:43:07,786 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:43:07,787 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:43:34,369 [Worker-238: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:43:34,372 [Worker-238: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:43:34,373 [Worker-238: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:43:34,374 [Worker-238: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:43:34,375 [Worker-238: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:44:55,746 [Worker-239: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:44:55,748 [Worker-239: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:44:55,750 [Worker-239: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:44:55,751 [Worker-239: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:44:55,752 [Worker-239: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:45:09,148 [Worker-240: Launching AppJFrame] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:45:09,151 [Worker-240: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:45:09,153 [Worker-240: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:45:09,153 [Worker-240: Launching AppJFrame] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:45:09,155 [Worker-240: Launching AppJFrame] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:47:31,529 [Worker-237: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:47:31,531 [Worker-237: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:47:31,533 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:47:31,534 [Worker-237: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:47:31,535 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:49:12,541 [Worker-238: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:49:12,543 [Worker-238: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:49:12,545 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:49:12,545 [Worker-238: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:49:12,547 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:49:25,606 [Worker-240: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:49:25,608 [Worker-240: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:49:25,609 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:49:25,610 [Worker-240: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:49:25,612 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:56:22,085 [Worker-242: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-10-11 23:56:22,087 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:56:22,089 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-11 23:56:22,089 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-11 23:56:22,090 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

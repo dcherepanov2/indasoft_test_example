@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cd</groupId>
+  <artifactId>mssql_test_java_eclipse_1</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>mssql_test_java_eclipse</name>
+  <description>Project for IndaSoft</description>
+  
+  <properties>
+    <java.version>8</java.version>
+  </properties>
+  
+<dependencies>
+	<dependency>
+	    <groupId>org.swinglabs</groupId>
+	    <artifactId>swingx</artifactId>
+	    <version>1.6.1</version>
+	</dependency>	
+	<dependency>
+	    <groupId>com.miglayout</groupId>
+	    <artifactId>miglayout</artifactId>
+	    <version>3.7.4</version>
+	</dependency>
+	<dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-data-jpa</artifactId>
+      <version>2.5.5</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.microsoft.sqlserver</groupId>
+      <artifactId>mssql-jdbc</artifactId>
+      <scope>runtime</scope>
+      <version>9.4.0.jre8</version>
+      
+    </dependency>
+    </dependencies>
+    
+</project>

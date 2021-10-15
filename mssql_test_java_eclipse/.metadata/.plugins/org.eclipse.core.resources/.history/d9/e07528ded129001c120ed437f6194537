@@ -1,0 +1,63 @@
+import java.awt.Container;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import entity.Employee;
+import repository.EmployeesRepo;
+
+public class AppJFrame extends JFrame{
+
+	private static EmployeesRepo employeeRepo = new EmployeesRepo();
+	private static List<Employee> employees = new ArrayList<>();
+	private JLabel jLabel = new JLabel("Input: "); 
+	private JTextField text = new JTextField("",5);
+	private JButton jButton = new JButton("Execute procedure");
+	
+	private JTextField resultExec = new JTextField("",1);
+	private JButton buttonQuery = new JButton("Выполнить запрос");
+	private String title = "Вывод запроса";
+	
+	class ButtonEventListener implements ActionListener{
+
+		@Override
+		public void actionPerformed(ActionEvent arg0) {
+			String message = "123";
+			JPanel jPanel = new JPanel();
+			ArrayList<JLabel> labels = new ArrayList<>();
+			for (Employee str:employees){
+				labels.add(new JLabel());
+				labels.get(employees.indexOf(str)).setText(str.toString()+"\n\n");
+				jPanel.add(labels.get(employees.indexOf(str)));
+			}
+			
+		}
+		
+	}
+	public AppJFrame() {
+		super("Indasoft swing");
+		this.setSize(300,300);
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		Container container = this.getContentPane();
+		container.setLayout(new GridLayout(5,employees.size(),2,2));
+		container.add(jLabel);
+		container.add(text);
+		jButton.addActionListener(new ButtonEventListener());
+		container.add(jButton);
+
+	}
+	public static void main(String[] args) {
+		AppJFrame app = new AppJFrame();
+		// TODO migrate GUI in package GUI
+		employeeRepo.connectionWithQuery(1,2);
+		employees = employeeRepo.getEmployeesFromQuerySQL();// получение лист с данными из бд
+		for(Employee employee: employees) {
+			System.out.println(employee.toString());
+		}
+		app.setVisible(true);
+	}
+
+}
