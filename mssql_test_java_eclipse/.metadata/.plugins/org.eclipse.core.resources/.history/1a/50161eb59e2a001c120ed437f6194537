@@ -1,0 +1,87 @@
+import java.awt.Container;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.*;
+
+import GUI.EmployeeTableModel;
+
+import java.awt.*;
+import java.awt.event.*;
+import entity.Employee;
+import repository.EmployeesRepo;
+
+public class AppJFrame extends JFrame{// GUI with JDBC
+
+	private static EmployeesRepo employeeRepo = new EmployeesRepo();
+	private static List<Employee> employees = new ArrayList<>();
+	private JLabel jLabel = new JLabel("Input: "); 
+	private JTextField text = new JTextField("",5);
+	private JButton jButton = new JButton("Execute procedure");
+	
+	private JTextField resultExec = new JTextField("",1);
+	private JButton buttonQuery = new JButton("Выполнить запрос");
+	private String title = "Вывод запроса";
+	private Container container;
+	private Container containerTable;
+	
+	class ButtonEventListener implements ActionListener{
+
+		@Override
+		public void actionPerformed(ActionEvent arg0) {
+			AppJFrame newWindow = new AppJFrame(2);
+			
+			EmployeeTableModel appJFrame = new EmployeeTableModel();
+			
+			JTable jTable = new JTable(appJFrame);
+			JScrollPane employeeTable = new JScrollPane(jTable);
+			employeeTable.setPreferredSize(new Dimension(400,400));
+			
+			String []str = new String[5];
+			str[0] = "0";
+			str[1] = "1";
+			str[2] = "2";
+			str[3] = "3";
+			str[4] = "4";
+			
+			appJFrame.addDate(str);
+			
+			newWindow.add(employeeTable,new GridBagConstraints(0,0,1,1,1,1,
+						GridBagConstraints.NORTH,GridBagConstraints.BOTH,new Insets(1,1,1,1),0,0));
+			
+			newWindow.setVisible(true);
+		}
+		
+	}
+	public AppJFrame(int windowNumber) {
+		super("Indasoft swing");
+		switch(windowNumber) {
+		case 1:{
+			this.setSize(300,300);
+			this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+			container = this.getContentPane();
+			container.setLayout(new GridLayout(5,employees.size(),2,2));
+			container.add(jLabel);
+			container.add(text);
+			jButton.addActionListener(new ButtonEventListener());
+			container.add(jButton);
+		}
+		case 2:{
+	        this.setSize(new Dimension(400,400));
+	        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	        this.setLocationRelativeTo(null);
+	        this.setLayout(new GridBagLayout());
+		}
+	}
+}
+	public static void main(String[] args) {
+		AppJFrame app = new AppJFrame(1);
+		// TODO migrate GUI in package GUI
+		employeeRepo.connectionWithQuery(1,2);
+		employees = employeeRepo.getEmployeesFromQuerySQL();
+		for(Employee employee: employees) {
+			System.out.println(employee.toString());
+		}
+		app.setVisible(true);
+	}
+}

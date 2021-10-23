@@ -1,0 +1,21 @@
+import java.sql.SQLException;
+
+import repository.EmployeesRepo;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.JFrame;
+
+import entity.Employee;
+
+public class ApplicationMain extends JFrame {
+	
+	private static EmployeesRepo employeeRepo;
+	private List<Employee> employees = new ArrayList<>();
+	
+	public static void main(String args[]) throws SQLException{
+		employeeRepo.connectionWithQuery(1,2);
+		
+	}
+	
+}

@@ -1,0 +1,71 @@
+package repository;
+
+import java.sql.Connection; 
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import entity.Employee;
+
+public class EmployeesRepo {//work with data and save him in location program 
+
+	private static List<Employee> employeesFromQuery = new ArrayList<>();
+	private String errorMessage = null;
+	
+	/*public String check(Integer departament, Double procent){
+		if(departament == null || procent == null || procent > 100) {
+			return "Проверьте правильность введенных значений";
+		}
+		else {
+			try {
+				
+			}catch(SQLException e) {
+				return "Департамент с таким id не найден";
+			}
+		}
+		return null;
+	}*/
+	public void connectionWithQuery(int id_dep, int precent) {
+		String connectionUrl =
+              "jdbc:sqlserver://DESKTOP-VC14LGR\\SQLEXPRESS.database.windows.net:1433;"
+                      + "database=DEPARTAMENT;"
+                      + "user=admin1;"
+                      + "password=123;"
+                      + "encrypt=true;"
+                      + "trustServerCertificate=true;"
+                      + "loginTimeout=30;";
+		
+		try {
+			Connection connection = DriverManager.getConnection(connectionUrl);
+			System.out.print("Connected to MSSQL sucsessfully  completed");
+			  
+			String query = "EXEC [dbo].[UPDATESALARYFORDEPARTMENT] " + String.valueOf(id_dep)+ ","+String.valueOf(precent);
+			Statement statement = connection.createStatement(); 
+			ResultSet findDepartament = statement.executeQuery("SELECT * FROM DEPARTAMENT WHERE ID =" + id_dep);
+			if(!findDepartament.next()) {
+				System.out.println("Error");
+			}
+			ResultSet resultSet = statement.executeQuery(query);
+			while(resultSet.next()){
+                Employee employee = new Employee();
+                employee.setId(resultSet.getInt(1));
+                employee.setDepartament(resultSet.getInt(2));
+                employee.setChiefId(resultSet.getInt(3));
+                employee.setName(resultSet.getString(4));
+                employee.setSalary(resultSet.getInt(5));
+                employeesFromQuery.add(employee);
+            }
+			connection.close();
+		} catch (SQLException e) {
+			e.printStackTrace();
+			System.out.print(false);
+		}
+	}
+	public static List<Employee> getEmployeesFromQuerySQL(){
+		return employeesFromQuery;
+	}
+
+}

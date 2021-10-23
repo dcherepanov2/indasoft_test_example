@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.JFrame;
+
+import entity.Employee;
+import repository.EmployeesRepo;
+
+public class AppJFrame extends JFrame{
+
+	private static EmployeesRepo employeeRepo = new EmployeesRepo();
+	private static List<Employee> employees = new ArrayList<>();
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		employeeRepo.connectionWithQuery(1,2);
+		System.out.println("Hello world!");
+	}
+
+}

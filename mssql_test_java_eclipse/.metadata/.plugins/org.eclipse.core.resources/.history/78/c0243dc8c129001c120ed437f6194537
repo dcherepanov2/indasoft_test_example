@@ -1,0 +1,33 @@
+import java.awt.Container;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import entity.Employee;
+import repository.EmployeesRepo;
+
+public class AppJFrame extends JFrame{
+
+	private static EmployeesRepo employeeRepo = new EmployeesRepo();
+	private static List<Employee> employees = new ArrayList<>();
+	private JTextField resultExec = new JTextField("",1);
+	private JButton buttonQuery = new JButton("Выполнить запрос");
+	private String title = "Вывод запроса";
+	
+	public AppJFrame() {
+		super("Indasoft swing");
+		setLoyout(new FlowLoyout());
+		add()
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		employeeRepo.connectionWithQuery(1,2);
+		employees = employeeRepo.getEmployeesFromQuerySQL();// получение лист с данными из бд
+		for(Employee employee: employees) {
+			System.out.println(employee.toString());
+		}
+	}
+
+}
